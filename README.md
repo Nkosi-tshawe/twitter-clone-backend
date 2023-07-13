@@ -1,3 +1,7 @@
+# A Twitter Clone
+
+Backend API using Nest framework (NodeJS + TypeScript + PostgresSQL)
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
