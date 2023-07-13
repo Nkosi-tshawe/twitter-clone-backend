@@ -1,3 +1,9 @@
+# A Twitter Clone
+
+Backend API using Nest framework (NodeJS + TypeScript + PostgresSQL)
+
+![NodeJs Workflow](https://github.com/github/docs/actions/workflows/nodejs.yml/badge.svg)
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
