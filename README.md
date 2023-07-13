@@ -2,7 +2,7 @@
 
 Backend API using Nest framework (NodeJS + TypeScript + PostgresSQL)
 
-![NodeJs Workflow](https://github.com/github/docs/actions/workflows/nodejs.yml/badge.svg)
+![NodeJs Workflow](https://github.com/Nkosi-tshawe/twitter-clone-backend/actions/workflows/nodejs.yml/badge.svg)
 
 ## Description
 
